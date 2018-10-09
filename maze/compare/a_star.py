@@ -35,6 +35,7 @@ class Astar(WalkerBase):
         '''
         return np.sqrt(np.square(maze_constants.XCELLS - cell._xLoc)+np.square(maze_constants.YCELLS - cell._yLoc))
 
+
     #Function tracking back to the last decision point, recursive?
     def backToDecisionPoint(self,cell):
         #paint the current cell which will be temporarily discarded
@@ -52,6 +53,7 @@ class Astar(WalkerBase):
                 self.paint(i,OPENLIST_COLOR)
                 self.last = self._cell
 
+        #finished?
         if self._cell is self._maze.finish():
             road = []
             tmp = self._cell
