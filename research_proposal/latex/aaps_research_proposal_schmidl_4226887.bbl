@@ -1,0 +1,49 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Alam et~al.}{2017}]{Alam2017}
+Alam, F., Danieli, M., and Riccardi, G. (2017).
+\newblock Annotating and modeling empathy in spoken conversations.
+\newblock {\em CoRR}, abs/1705.04839.
+
+\bibitem[\protect\astroncite{Banchs}{2012}]{Moviedic}
+Banchs, R.~E. (2012).
+\newblock Movie-dic: a movie dialogue corpus for research and development.
+\newblock In {\em In Proc. of the 50 th Annual Meeting of the ACL}.
+
+\bibitem[\protect\astroncite{Collobert et~al.}{2011}]{Collobert2011}
+Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., and Kuksa,
+  P. (2011).
+\newblock Natural language processing (almost) from scratch.
+\newblock {\em J. Mach. Learn. Res.}, 12:2493--2537.
+
+\bibitem[\protect\astroncite{Eyben et~al.}{2013}]{Eyben2013}
+Eyben, F., Weninger, F., Gross, F., and Schuller, B. (2013).
+\newblock Recent developments in opensmile, the munich open-source multimedia
+  feature extractor.
+\newblock In {\em Proceedings of the 21st ACM International Conference on
+  Multimedia}, MM '13, pages 835--838, New York, NY, USA. ACM.
+
+\bibitem[\protect\astroncite{Hoffman}{2008}]{Hoffman2008}
+Hoffman, M.~L. (2008).
+\newblock Empathy and prosocial behavior.
+\newblock {\em Handbook of Emotions 3}, page 440–455.
+
+\bibitem[\protect\astroncite{Lowe et~al.}{2015}]{Lowe2015}
+Lowe, R., Pow, N., Serban, I., and Pineau, J. (2015).
+\newblock The ubuntu dialogue corpus: {A} large dataset for research in
+  unstructured multi-turn dialogue systems.
+\newblock {\em CoRR}, abs/1506.08909.
+
+\bibitem[\protect\astroncite{Steyvers and Griffiths}{2007}]{topicmodels2007}
+Steyvers, M. and Griffiths, T. (2007).
+\newblock {\em Probabilistic Topic Models}.
+\newblock Lawrence Erlbaum Associates.
+
+\bibitem[\protect\astroncite{Stritch}{}]{effectiveSalesConversations2018}
+Stritch, E.
+\newblock 7 keys to leading highly effective sales conversations.
+\newblock
+  https://www.rainsalestraining.com/blog/7-keys-to-leading-highly-effective-sales-conversations.
+\newblock Accessed: 2018-03-17.
+
+\end{thebibliography}
